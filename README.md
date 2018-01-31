@@ -5,15 +5,11 @@ Restfull Spring Boot Microservice with JPA
 
 Introductie 
 ## Spring boot
-<li>Dependency Injection | Youtube<a href=""></li> 
- 
-This is [an example](https://www.youtube.com/watch?v=IKD2-MAkXyQ ) inline link.
-
-[This link](http://example.net/) has no title attribute.
-
+Youtube |  [Dependency Injection ](https://www.youtube.com/watch?v=IKD2-MAkXyQ ) 
 
 ##  Sping data
+spring.io |  [spring.io/guides/gs/accessing-data-jpa](https://spring.io/guides/gs/accessing-data-jpa/ ) 
 
 ## Spring Data Rest 
 
-# 
+
